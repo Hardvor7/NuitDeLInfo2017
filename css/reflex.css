@@ -1,0 +1,18 @@
+#reflex{
+	width:200px;
+	height:200px;
+	border:2px solid black;
+	margin-top:0px;
+	margin-left:0px;
+	background-color: white;
+}
+#temps{
+	font-size:50px;
+	font-weight:bold;
+}
+
+form{
+	font-weight: bold;
+	margin-right: auto;
+	margin-left: auto;
+}

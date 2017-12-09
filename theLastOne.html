@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The last one</title>
+	<style type="text/css">
+	a {
+		font-size: 100px;
+		text-decoration: none;
+		color: inherit;
+		padding-left: 30%;
+	}
+	</style>
+</head>
+<body>
+	
+	<script type="text/javascript">
+		document.body.background="images/background.jpg";
+		var response;
+		
+		do
+		{
+			response = prompt("Saisir le nom de la derniere page !");
+		}
+		while (response == null);
+		var createA = document.createElement('a');
+        createA.setAttribute('href', response);
+		createA.innerHTML = "Lien de la page";
+		document.body.appendChild(createA);
+	</script>
+	<!--
+	eW1qSnNpLm15cnE=
+	-->
+	
+ </body>
+</html>

@@ -1,0 +1,82 @@
+.bodyClass
+{
+	height: 100%;
+	padding:0%;
+}
+
+.skyblue
+{
+	height:30%;
+	background-image: linear-gradient(rgb(15,75,85), rgb(6,40,50));
+	border: 20px solid black;
+}	
+
+.mainFirst
+{
+	background-image: linear-gradient(rgb(5,35,45), rgb(20,120,140));
+}
+
+.main
+{
+	height: 70%;
+}
+
+.imgMain
+{
+	height: 50%;
+}
+
+h1
+{
+	font-size:80px;
+	color: white;
+}
+
+.bg
+{
+	color: white;
+	text-align: center;
+	padding-top:15px;
+	font-size: 30px;
+}
+
+.colonne
+{
+	margin-top:5%;
+	height: 75%;
+}
+
+.favicon
+{
+	height:90%;
+	text-align: center;
+}
+
+a:hover
+{
+	background-color: gold;
+	text-decoration: none;
+}
+
+a
+{
+	color: white;
+}
+
+.photoWGL
+{
+	margin-top:50px;
+	display: block;
+	height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.photoSam
+{
+	margin-top:50px;
+	display: block;
+	height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
